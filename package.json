@@ -1,0 +1,33 @@
+{
+    "author": "kathleenruanse@gmail.com",
+    "dependencies": {
+        "pebble-clay": "^1.0.3"
+    },
+    "keywords": [],
+    "name": "sheinnovates",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "sheInnovates",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "projectName": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "046fc5e4-0471-455f-bd92-7a2bed6454d1",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
